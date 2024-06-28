@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "767226093877",
+    "firebase_url": "https://stunio-clone-default-rtdb.firebaseio.com",
+    "project_id": "stunio-clone",
+    "storage_bucket": "stunio-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767226093877:android:f8eaa5be21de9960cb6c7c",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767226093877-fbu5bgm7bsgi7kipch6nc939j6mo6fcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQ5usJE9IexG2k8ixvMOevHOM_kN3Vtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767226093877-fbu5bgm7bsgi7kipch6nc939j6mo6fcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767226093877-6765fol4k41d377f0g4k6udg64jdad0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stunio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767226093877:android:5f661b57e6b99ba9cb6c7c",
+        "android_client_info": {
+          "package_name": "com.example.signup_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767226093877-fbu5bgm7bsgi7kipch6nc939j6mo6fcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQ5usJE9IexG2k8ixvMOevHOM_kN3Vtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767226093877-fbu5bgm7bsgi7kipch6nc939j6mo6fcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767226093877-6765fol4k41d377f0g4k6udg64jdad0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stunio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767226093877:android:c470258e3bbd5541cb6c7c",
+        "android_client_info": {
+          "package_name": "com.example.stunio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767226093877-fbu5bgm7bsgi7kipch6nc939j6mo6fcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQ5usJE9IexG2k8ixvMOevHOM_kN3Vtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767226093877-fbu5bgm7bsgi7kipch6nc939j6mo6fcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767226093877-6765fol4k41d377f0g4k6udg64jdad0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stunio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
